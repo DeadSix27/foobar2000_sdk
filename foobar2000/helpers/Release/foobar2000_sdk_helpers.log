@@ -1,0 +1,48 @@
+﻿  StdAfx.cpp
+  clipboard.cpp
+  CPowerRequest.cpp
+  create_directory_helper.cpp
+  cue_creator.cpp
+  cue_parser.cpp
+  cue_parser_embedding.cpp
+  cuesheet_index_list.cpp
+  dialog_resize_helper.cpp
+c:\users\mainpcuser\documents\github\foobarsdk\foobar2000\helpers\win32_misc.h(115): warning C4996: 'GetVersion': was declared deprecated (compiling source file clipboard.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(135): note: see declaration of 'GetVersion' (compiling source file clipboard.cpp)
+c:\users\mainpcuser\documents\github\foobarsdk\foobar2000\helpers\cpowerrequest.h(73): warning C4996: 'GetVersion': was declared deprecated (compiling source file CPowerRequest.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(135): note: see declaration of 'GetVersion' (compiling source file CPowerRequest.cpp)
+  dropdown_helper.cpp
+  dynamic_bitrate_helper.cpp
+  file_info_const_impl.cpp
+  file_list_helper.cpp
+  file_move_helper.cpp
+  filetimetools.cpp
+  file_win32_wrapper.cpp
+  IDataObjectUtils.cpp
+  input_helpers.cpp
+  listview_helper.cpp
+  mp3_utils.cpp
+  packet_decoder_aac_common.cpp
+  packet_decoder_mp3_common.cpp
+c:\users\mainpcuser\documents\github\foobarsdk\foobar2000\helpers\win32_misc.h(115): warning C4996: 'GetVersion': was declared deprecated (compiling source file listview_helper.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(135): note: see declaration of 'GetVersion' (compiling source file listview_helper.cpp)
+  readers.cpp
+  seekabilizer.cpp
+  SmartStrStr.cpp
+  stream_buffer_helper.cpp
+  text_file_loader.cpp
+  ThreadUtils.cpp
+  VisUtils.cpp
+  win32_dialog.cpp
+  win32_misc.cpp
+c:\users\mainpcuser\documents\github\foobarsdk\foobar2000\helpers\win32_misc.h(115): warning C4996: 'GetVersion': was declared deprecated (compiling source file ThreadUtils.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(135): note: see declaration of 'GetVersion' (compiling source file ThreadUtils.cpp)
+c:\users\mainpcuser\documents\github\foobarsdk\foobar2000\helpers\win32_misc.h(115): warning C4996: 'GetVersion': was declared deprecated (compiling source file win32_dialog.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(135): note: see declaration of 'GetVersion' (compiling source file win32_dialog.cpp)
+  window_placement_helper.cpp
+c:\users\mainpcuser\documents\github\foobarsdk\foobar2000\helpers\win32_misc.h(115): warning C4996: 'GetVersion': was declared deprecated (compiling source file win32_misc.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(135): note: see declaration of 'GetVersion' (compiling source file win32_misc.cpp)
+  writer_wav.cpp
+c:\users\mainpcuser\documents\github\foobarsdk\foobar2000\helpers\win32_misc.cpp(224): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(387): note: see declaration of 'GetVersionExW'
+  foobar2000_sdk_helpers.vcxproj -> C:\Users\mainpcuser\Documents\GitHub\foo_now_playing_helper\Release\foobar2000_sdk_helpers.lib
